@@ -1,0 +1,9 @@
+boto3
+awscli
+langchain-community
+pypdf
+streamlit
+faiss-cpu
+chardet
+#pip install -qU langchain_community pypdf
+#what is -qU ?

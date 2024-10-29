@@ -1,0 +1,12 @@
+(base) nikhilbansal@Nikhils-MacBook-Air RAG_APP1 % aws configure --profile bedrock_user
+AWS Access Key ID [None]: 
+AWS Secret Access Key [None]: 
+Default region name [None]: us-east-1
+Default output format [None]: json
+(base) nikhilbansal@Nikhils-MacBook-Air RAG_APP1 % aws configure list-profiles         
+default
+bedrock_user
+(base) nikhilbansal@Nikhils-MacBook-Air RAG_APP1 %   
+
+
+access_key_id and secret access key have been retrieved from aws iam user page
